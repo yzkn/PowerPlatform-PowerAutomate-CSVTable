@@ -1,0 +1,18 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "k": {
+                "type": "string"
+            },
+            "v": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "k",
+            "v"
+        ]
+    }
+}
